@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN_News_Project/static/css/main.1e45a167.css",
+    "main.js": "/MERN_News_Project/static/js/main.abc44570.js",
+    "index.html": "/MERN_News_Project/index.html",
+    "main.1e45a167.css.map": "/MERN_News_Project/static/css/main.1e45a167.css.map",
+    "main.abc44570.js.map": "/MERN_News_Project/static/js/main.abc44570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e45a167.css",
+    "static/js/main.abc44570.js"
+  ]
+}
